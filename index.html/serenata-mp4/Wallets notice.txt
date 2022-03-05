@@ -1,0 +1,3 @@
+The CLI and GUI wallets have been depreacted due to difficulties in mainaining them.
+They may return in the future, but for now we suggest using the web wallet:
+https://wallet.duinocoin.com
